@@ -181,7 +181,7 @@ h2{
     height:auto;
     clear:both;
     padding:103px 0;
-    background-image:url(file:///C:/hp/images/bg-intro.jpg);
+    background-image:url(https://duong-hub.github.io/ProjectIngiare360.com/images/bg-intro.jpg);
     background-position:center!important;
     background-repeat:no-repeat!important;
     background-size:cover!important;
@@ -194,7 +194,7 @@ h2{
     clear:both;
     padding:70px 0;
     color:#e5e4e6;
-    background-image:url(file:///C:/hp/images/bg2_ingiare360.jpg);
+    background-image:url(https://duong-hub.github.io/ProjectIngiare360.com/images/bg2_ingiare360.jpg);
     background-repeat:repeat
 }
 .nav--center{
@@ -388,7 +388,7 @@ h2{
     color:#222
 }
 span.label-new{
-    background:url(file:///C:/hp/images/sprite.png) -130px -80px no-repeat;
+    background:url(https://duong-hub.github.io/ProjectIngiare360.com/images/sprite.png) -130px -80px no-repeat;
     height:52px;
     position:absolute;
     right:0;
@@ -404,7 +404,7 @@ span.label-new{
     padding:10px 0;
     border-top:1px solid #f0f0f0;
     border-bottom:1px solid #f0f0f0;
-    background-image:url(file:///C:/hp/images/crossword.png);
+    background-image:url(https://duong-hub.github.io/ProjectIngiare360.com/images/crossword.png);
     background-color:transparent
 }
 .content-box{
@@ -459,7 +459,7 @@ span.label-new{
 }
 .after-footer{
     margin-top:20px;
-    background-image:url(file:///C:/hp/images/line.jpg);
+    background-image:url(https://duong-hub.github.io/ProjectIngiare360.com/images/line.jpg);
     background-size:cover;
     width:auto;
     height:8px
@@ -1421,7 +1421,7 @@ div.table .product-info .product-title{
 .bg_make_print{
     min-height:700px;
     width:100%;
-    background:url(file:///C:/hp/images/bg_make_printing.jpg) 50% 0 no-repeat;
+    background:url(https://duong-hub.github.io/ProjectIngiare360.com/images/bg_make_printing.jpg) 50% 0 no-repeat;
     margin-top:5px
 }
 .or-image:hover a:before{
@@ -1585,7 +1585,7 @@ div.table .product-info .product-title{
     width:30px;
     height:8px;
     top:8px;
-    background-image:url(file:///C:/hp/images/heading-before.png);
+    background-image:url(https://duong-hub.github.io/ProjectIngiare360.com/images/heading-before.png);
     -webkit-filter:brightness(0);
     -ms-filter:brightness(0);
     -o-filter:brightness(0);
